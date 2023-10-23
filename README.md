@@ -1,6 +1,6 @@
 # FabricNet: A Fiber Recognition Architecture Using Ensemble ConvNets
 
-This is a minimal implementation of the AutoEmbedder. A jupyter notebook version and a python version is attached in the repo.
+This is a minimal implementation of the FabricNet.
 
 ## Abstract
 
